@@ -4,8 +4,8 @@
 
 ## will-c137
 
-> the '137' is from [Fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant?useskin=vector), which equals 1/137
+> the '137' is from [Fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant?useskin=vector), which equals 1/137.
 
-🤔 I'm will, a student in NanJing university.
+🤔 I'm [will-c137](will-c137.github.io) a student in [NanJing university](https://www.nju.edu.cn).
 
-💻 I'm currently learning Computational mathematics
+💻 I'm currently learning Computational Mathematics in [NJUDM](https://math.nju.edu.cn).

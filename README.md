@@ -1,24 +1,11 @@
-### Hi there 👋
+<a href="#">
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=will-c137&show_icons=true&theme=tokyonight'>
+</a>  
 
-<!--
-**will-c137/will-c137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## will-c137
 
-Here are some ideas to get you started:
-![Anurag's GitHub stats]()
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> the '137' is from [Fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant?useskin=vector), which equals 1/137
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=will-c137&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-c137&layout=compact" />
-</a>
+🤔 I'm will, a student in NanJing university.
+
+💻 I'm currently learning Computational mathematics

@@ -10,5 +10,5 @@
 
 
 [![Blog](https://img.shields.io/badge/Blog-@willc137-blue.svg)](https://will-c137.github.io)
-[![Email](https://img.shields.io/badge/Email-@willuuhappy-blue.svg)](mailto:willunhappy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-@willunhappy-blue.svg)](mailto:willunhappy@gmail.com)
 [![X](https://img.shields.io/badge/X-@willMayday-blue.svg)](https://twitter.com/WillMayday)

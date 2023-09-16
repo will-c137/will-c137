@@ -8,6 +8,7 @@
 
 💻 I'm [will-c137](will-c137.github.io), learning Computational Mathematics in [NanJing university](https://www.nju.edu.cn).
 
+![GitHub followers](https://img.shields.io/github/followers/will-c137)
 [![Blog](https://img.shields.io/badge/blog-@will-c137.svg)](https://will-c137.github.io)
 [![mail](https://img.shields.io/badge/mail-@will-c137.svg)](mailto:willunhappy@gmail.com)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/willMayday)](https://twitter.com/WillMayday)

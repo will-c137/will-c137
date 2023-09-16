@@ -8,4 +8,4 @@
 
 🤔 I'm [will-c137](will-c137.github.io) a student in [NanJing university](https://www.nju.edu.cn).
 
-💻 I'm currently learning Computational Mathematics in [NJUDM](https://math.nju.edu.cn).
+💻 I'm currently learning Computational Mathematics.

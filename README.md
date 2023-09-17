@@ -4,7 +4,7 @@
 
 ## will-c137
 
-> the '137' is from [Fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant?useskin=vector).
+> 🤩 the '137' is from [Fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant?useskin=vector).
 
 💻 I'm [will-c137](https://will-c137.github.io), learning [Computational Mathematics](https://en.wikipedia.org/wiki/Computational_mathematics?useskin=vector) in [NanJing university](https://www.nju.edu.cn).
 

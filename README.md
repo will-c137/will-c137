@@ -2,7 +2,7 @@
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=will-c137&show_icons=true&theme=tokyonight'>
 </a>  
 
-## will-c137
+### will-c137
 
 > 🤩 The '137' is from [Fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant?useskin=vector).
 
